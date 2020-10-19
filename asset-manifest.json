@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DarienPortfolioWebsite/static/css/main.523f09c5.chunk.css",
+    "main.js": "/DarienPortfolioWebsite/static/js/main.badb323f.chunk.js",
+    "main.js.map": "/DarienPortfolioWebsite/static/js/main.badb323f.chunk.js.map",
+    "runtime-main.js": "/DarienPortfolioWebsite/static/js/runtime-main.d7586e70.js",
+    "runtime-main.js.map": "/DarienPortfolioWebsite/static/js/runtime-main.d7586e70.js.map",
+    "static/js/2.70742dab.chunk.js": "/DarienPortfolioWebsite/static/js/2.70742dab.chunk.js",
+    "static/js/2.70742dab.chunk.js.map": "/DarienPortfolioWebsite/static/js/2.70742dab.chunk.js.map",
+    "index.html": "/DarienPortfolioWebsite/index.html",
+    "precache-manifest.de338227a0b3f5939d20186ebee95eee.js": "/DarienPortfolioWebsite/precache-manifest.de338227a0b3f5939d20186ebee95eee.js",
+    "service-worker.js": "/DarienPortfolioWebsite/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/DarienPortfolioWebsite/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.70742dab.chunk.js.LICENSE.txt": "/DarienPortfolioWebsite/static/js/2.70742dab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/DarienPortfolioWebsite/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7586e70.js",
+    "static/js/2.70742dab.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.badb323f.chunk.js"
+  ]
+}
