@@ -1,4 +1,4 @@
 # MyPortfolio
 A place to share my dev experiences
 
-Though this was originally for my writing class, I figured that if I'm going to build an open ended site, might as well go all the way.
+This was originally for a writing class. However, I figured that if I was going to build an open ended site, might as well go all the way.
