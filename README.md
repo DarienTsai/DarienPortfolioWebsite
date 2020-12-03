@@ -7,6 +7,7 @@ This was originally for a writing class. I figured it would turn out better if I
 - React
 - PostCSS
 - Sass
+- Bootstrap
 - JS/HTML/CSS
 - ❤️
 
