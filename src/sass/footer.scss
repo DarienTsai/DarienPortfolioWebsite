@@ -1,0 +1,13 @@
+#footer{
+  p{
+    text-align: left;
+  }
+}
+
+@media(max-width: 965px){
+  #footer{
+    p{
+      text-align: center;
+    }
+  }
+}

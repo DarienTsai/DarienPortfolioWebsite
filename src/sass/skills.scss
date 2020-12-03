@@ -1,0 +1,42 @@
+#skills{
+  text-align: center;
+
+  h2{
+    padding: 1em 0;
+  }
+
+  div{
+    margin: auto;
+    
+    img{
+      padding: 1em 1em;
+      box-sizing: initial;
+    }
+
+    figcaption{
+      text-align: center;
+      margin: auto;
+    }
+  }
+
+  .skills{
+    width: 25%;
+  }
+}
+
+@media (max-width: 1047px) { 
+  #skills{
+
+    .skills{
+      width: 50%;
+    }
+  }
+}
+
+@media (max-width: 576px) {   
+  #skills{
+
+    .skills{
+      width: 75%;
+    }
+} }

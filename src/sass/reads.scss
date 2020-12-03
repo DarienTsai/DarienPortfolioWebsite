@@ -1,0 +1,51 @@
+#reads{
+  background-color: rgb(243, 230, 206);
+  border-radius: 0;
+  text-align: center;
+
+  .readings{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2%;
+    box-sizing: border-box;
+    width: 60%;
+    margin: auto;
+
+    .card{
+      width: 35%;
+      margin-bottom: 1em;
+      box-shadow: -10px 10px 31px -17px rgba(0, 0, 0, 0.404);
+      transition-duration: 0.1s; 
+    }
+
+    .card:hover{
+      box-shadow: -10px 10px 36px -17px rgba(0, 0, 0, 0.671);
+    }
+  
+    a{
+      display: block;
+      width: 100%;
+    }
+
+    a:hover{
+      text-decoration: none;
+    }
+
+    p{
+      width: 90%;
+      margin: auto;
+      padding-bottom: 0.5em;
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  #reads{
+    .readings{
+      .card{
+        width: 90%;
+      }
+    }
+  }
+}
