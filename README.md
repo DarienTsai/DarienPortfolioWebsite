@@ -1,4 +1,13 @@
 # MyPortfolio
 A place to share my dev experiences
 
-This was originally for a writing class. However, I figured that if I was going to build an open ended site, might as well go all the way.
+This was originally for a writing class. I figured it would turn out better if I did not use Wix.
+
+## Built with
+- React
+- Sass
+- JS/HTML/CSS
+- ❤️
+
+## Deployed with
+- gh-pages
