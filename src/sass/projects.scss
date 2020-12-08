@@ -51,15 +51,67 @@
   }
 }
 
-@media (max-width: 1066px) { 
+@media (max-width: 1700px) { 
   #projects{
     .card{
-      width: 20em;
+      width: 19em;
+    }
+
+    #projects-view{
+      width: 100%;
+    
+    .contain{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      width: 65%;
+      margin: auto;
+      }
     }
   }
 }
 
-@media (max-width: 900px) { 
+@media (max-width: 1550px) { 
+  #projects{
+    .card{
+      width: 20em;
+    }
+
+    #projects-view{
+      width: 100%;
+    
+    .contain{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      width: 80%;
+      margin: auto;
+      }
+    }
+  }
+}
+
+@media (max-width: 1300px) { 
+  #projects{
+    .card{
+      width: 19em;
+    }
+
+    #projects-view{
+      width: 100%;
+    
+    .contain{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      width: 85%;
+      margin: auto;
+      }
+    }
+  }
+}
+
+@media (max-width: 1000px) { 
   #projects{
     
     #projects-view{

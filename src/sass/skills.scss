@@ -24,19 +24,33 @@
   }
 }
 
-@media (max-width: 1047px) { 
+@media (max-width: 1700px) { 
   #skills{
 
     .skills{
-      width: 50%;
+      width: 30%;
     }
   }
 }
 
-@media (max-width: 576px) {   
+@media (max-width: 1300px) { 
+  #skills{
+
+    .skills{
+      width: 30%;
+    }
+  }
+}
+
+@media (max-width: 900px) {   
   #skills{
 
     .skills{
       width: 75%;
     }
-} }
+
+    h2{
+      font-size: 1.3em;
+    }
+  }
+}

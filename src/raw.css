@@ -123,14 +123,22 @@ img {
   width: 25%;
 }
 
-@media (max-width: 1047px) {
+@media (max-width: 1700px) {
   #skills .skills {
-    width: 50%;
+    width: 30%;
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 1300px) {
+  #skills .skills {
+    width: 30%;
+  }
+}
+@media (max-width: 900px) {
   #skills .skills {
     width: 75%;
+  }
+  #skills h2 {
+    font-size: 1.3em;
   }
 }
 #projects {
@@ -177,12 +185,52 @@ img {
   margin: auto;
 }
 
-@media (max-width: 1066px) {
+@media (max-width: 1700px) {
+  #projects .card {
+    width: 19em;
+  }
+  #projects #projects-view {
+    width: 100%;
+  }
+  #projects #projects-view .contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 65%;
+    margin: auto;
+  }
+}
+@media (max-width: 1550px) {
   #projects .card {
     width: 20em;
   }
+  #projects #projects-view {
+    width: 100%;
+  }
+  #projects #projects-view .contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+  }
 }
-@media (max-width: 900px) {
+@media (max-width: 1300px) {
+  #projects .card {
+    width: 19em;
+  }
+  #projects #projects-view {
+    width: 100%;
+  }
+  #projects #projects-view .contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 85%;
+    margin: auto;
+  }
+}
+@media (max-width: 1000px) {
   #projects #projects-view {
     overflow-x: auto;
   }
